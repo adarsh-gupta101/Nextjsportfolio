@@ -135,10 +135,10 @@ function Work() {
                   github{" "}
                 </p>
                 <button className='m-2 bg-white text-blue-500 p-1 px-3 rounded-3xl  hover:text-white hover:bg-blue-700'>
-                  <a href='https://netfix-clone-reactjs.web.app/'>Live Link</a>
+                  <a href='https://teslareactclone.herokuapp.com/'>Live Link</a>
                 </button>
                 <button className='m-2 bg-white text-blue-500 p-1 px-3 rounded-3xl hover:text-white hover:bg-blue-700'>
-                  <a href='https://github.com/adarsh-gupta101/netflixclone-'>
+                  <a href='https://github.com/adarsh-gupta101/'>
                     {" "}
                     Repo
                   </a>
